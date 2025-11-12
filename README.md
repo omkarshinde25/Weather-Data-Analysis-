@@ -42,8 +42,8 @@ This model improved performance and enabled more flexible analysis in the dashbo
 DAX (Data Analysis Expressions) played a key role in creating dynamic and interactive calculations within the dashboard. DAX was used to calculate averages, totals, and conditional summaries across multiple dimensions such as city and time period. It was also used for generating key performance indicators and comparative analysis like day-over-day or month-over-month changes.  
 The use of DAX enabled the dashboard to respond dynamically to user selections, providing real-time analytical results for temperature, humidity, rainfall, and air quality indicators.
 
-For detailed documentation of the DAX formulas used, refer to the project PDF available at:  
-[https://github.com/omkarshinde25/Weather-Data-Analysis-/blob/main/DAX%20Weather%20Data%20Analysis%20Dashboard%20using%20Power%20BI.pdf](https://github.com/omkarshinde25/Weather-Data-Analysis-/blob/main/DAX%20Weather%20Data%20Analysis%20Dashboard%20using%20Power%20BI.pdf)  
+For the complete documentation of all DAX formulas and logic used in this project, please refer to the file below:  
+[View Full DAX Documentation](https://github.com/omkarshinde25/Weather-Data-Analysis-/blob/main/DAX%20Weather%20Data%20Analysis%20Dashboard%20using%20Power%20BI.pdf)
 
 
 ## 8. Dashboard Design and Visualization
